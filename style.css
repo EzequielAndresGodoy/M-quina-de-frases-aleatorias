@@ -1,0 +1,12 @@
+*{
+  transition: all 0.5s ease-in-out;
+}
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.card {
+  width: 700px;
+}
